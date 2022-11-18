@@ -1,7 +1,7 @@
 # Random-Forest-ML
 
 ## Random Forest Regressor on household electric power consumption Dataset
-### Implemented bagging regressor, extra tree regressor, voting regressor on top of Household consumption data
+### Also Implemented bagging regressor, extra tree regressor, voting regressor on top of Household consumption data
 
 **Data Collection:** https://archive.ics.uci.edu/ml/datasets/Individual+household+electric+power+consumption#
 
@@ -21,8 +21,8 @@ This archive contains 2075259 measurements gathered in a house located in Sceaux
 * sub_metering_2: energy sub-metering No. 2 (in watt-hour of active energy). It corresponds to the laundry room, containing a washing-machine, a tumble-drier, a refrigerator and a light.
 * sub_metering_3: energy sub-metering No. 3 (in watt-hour of active energy). It corresponds to an electric water-heater and an air-conditioner.
 
-## Decision Tree Classifier on census income Dataset
-### Implemented bagging Classifier, extra tree Classifier, voting Classifier on top of census income Dataset
+## Random Forest Classifier on census income Dataset
+### Also Implemented bagging Classifier, extra tree Classifier, voting Classifier on top of census income Dataset
 
 **Data Collection:** https://archive.ics.uci.edu/ml/datasets/census+income
 
